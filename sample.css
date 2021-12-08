@@ -1,0 +1,12 @@
+@charset "utf-8";
+#one{
+	color: blueviolet
+}
+#two{
+	color: coral;
+	font-size: 30px
+}
+.sumi img{
+	width: 30%;
+	height: auto
+}

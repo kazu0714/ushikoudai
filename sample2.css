@@ -1,0 +1,17 @@
+@charset "utf-8";
+#one{
+	color: crimson;
+	font-size: 20px;
+}
+.koudaikarubi img{
+	width: 20%;
+	height: auto;
+}
+.karubi img{
+	width: 20%;
+	height: auto;
+}
+.harami img{
+	width: 20%;
+	height: auto;
+}
